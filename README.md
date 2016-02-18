@@ -3,6 +3,12 @@ SMS based Instant Information System: An SMS enabled information system which gi
 
 Hardware Side Server Code Of Arduino with Fona GSM Module.
 
+How It Work??
+
+In this system when user want to go any places(e.g.Rajkot) then he/she just send the message(Rajkot) to the server number and server 
+replies him/her with all the use full information of place like Place to stay, place to visit, food stall, shopping malls etc. in the form of simple text message. 
+
+
 CODE:
 
       /*
